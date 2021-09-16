@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - PhD Student
 design:
   show_interests: false
   show_role: true
