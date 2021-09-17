@@ -18,4 +18,4 @@ social:
   link: https://scholar.google.com/citations?hl=zh-CN&user=gPLno8cAAAAJ
 
 ---
-Xiao Zhou received the Ph.D. degree in Geography from Naning University, Nanjing, China, in 2021. Now, he is a postdoctoral fellow at Peking University.
+Xiao Zhou received the Ph.D. degree in Geography from Naning University, Nanjing, China, in 2021. Now, he is a postdoctoral fellow at Peking University. His research interests includes GIS and Remote Sensing Applications.
