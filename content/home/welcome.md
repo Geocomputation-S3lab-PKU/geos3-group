@@ -4,8 +4,7 @@ widget_id: Information
 headless: true
 weight: 10
 title: |
-  PKU GeoS<sup>3</sup>
-  Group
+  PKU S<sup>3</sup> Lab
 hero_media: welcome.jpg
 design:
   columns: "2"

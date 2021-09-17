@@ -5,6 +5,6 @@ bio: test
 social: []
 superuser: false
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 test

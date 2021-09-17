@@ -9,20 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Team Members
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
-  - Researchers
+  - Professors
+  - Visiting Scholars
+  - Postdoctoral Researchers
+  - PhD Students
   - Grad Students
-  - Administration
-  - Visitors
+  - Researchers
   - Alumni
-  - PhD Student
 design:
   show_interests: false
   show_role: true

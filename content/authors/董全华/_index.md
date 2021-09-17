@@ -6,7 +6,7 @@ social: []
 email: dqh@pku.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Postdoctoral Researchers
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

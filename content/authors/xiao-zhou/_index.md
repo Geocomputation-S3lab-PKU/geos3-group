@@ -6,7 +6,7 @@ bio: His research interests include GIS and remote sensing image applications.
 social: []
 superuser: false
 user_groups:
-  - Researchers
+  - Postdoctoral Researchers
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

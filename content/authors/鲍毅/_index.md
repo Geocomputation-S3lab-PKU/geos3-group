@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Student 
+- PhD Students
 ---
 
 鲍毅(baoyi) is a PhD candidate in Peking University GeoS<sup>3</sup> lab. His research interest lies in Urban data mining. His working experience includes **Location Prediction** and **Built Environment Stocks calculation**. He is trying to make cities great again. 
