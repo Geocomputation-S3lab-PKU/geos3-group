@@ -14,4 +14,4 @@ design:
 ---
 <br>
 
-The **PKU GeoS<sup>3</sup> Group** has been a center of excellence for Geographical Information Systems research, teaching, and practice since its founding in 2016.
+The **PKU Spatio-Temporal Social Sensing Lab** has been a center of excellence for Geographical Information Systems research, teaching, and practice since its founding in 2016.
