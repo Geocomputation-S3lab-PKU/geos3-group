@@ -1,5 +1,5 @@
 ---
-title: 董全华
+title: 董全华 Quanhua Dong
 role: PhD in GIS
 avatar_filename: avatar
 social: []
