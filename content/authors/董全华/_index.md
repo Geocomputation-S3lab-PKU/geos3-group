@@ -1,6 +1,6 @@
 ---
 title: 董全华 Quanhua Dong
-role: PhD in GIS
+role: Ph.D in GIS
 avatar_filename: avatar
 social: []
 email: dqh@pku.edu.cn
