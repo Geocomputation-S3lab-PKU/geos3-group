@@ -1,7 +1,7 @@
 ---
 title: Xiao Zhou
 role: Ph.D in Geography
-avatar_filename: zx.png
+# avatar_filename: zx.png
 bio: His research interests include GIS and remote sensing image applications.
 social: []
 superuser: false
