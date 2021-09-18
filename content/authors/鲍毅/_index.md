@@ -36,7 +36,7 @@ social:
   - display:
       header: false
     link: https://baoyi.vercel.app/
-    icon: home
+    icon: fa-home
     icon_pack: far
 education:
   courses:
