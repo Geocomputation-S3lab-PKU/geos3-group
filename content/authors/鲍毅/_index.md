@@ -23,6 +23,16 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/cugbaoyi
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Yi-Bao-12
+    icon_pack: ai
+    icon: researchgate
+  - display:
+      header: false
+    link: https://baoyi.vercel.app/
+    icon: home
+    icon_pack: fab
 education:
   courses:
     - course: PhD in Geographical Information Systems
