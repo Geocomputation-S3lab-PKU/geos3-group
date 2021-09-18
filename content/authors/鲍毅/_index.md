@@ -36,16 +36,16 @@ social:
   - display:
       header: false
     link: https://baoyi.vercel.app/
-    icon: fa-home
+    icon: fas fa-home
     icon_pack: fas
 education:
   courses:
     - course: PhD in Geographical Information Systems
       institution: Peking University
-      year: 2023
+      year: ""
     - course: BSc in Information Engineering
       institution: China University of Geosciences
-      year: 2018
+      year: ""
 email: ""
 user_groups:
   - PhD Students
