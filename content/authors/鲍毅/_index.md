@@ -37,7 +37,7 @@ social:
       header: false
     link: https://baoyi.vercel.app/
     icon: fa-home
-    icon_pack: far
+    icon_pack: fas
 education:
   courses:
     - course: PhD in Geographical Information Systems
