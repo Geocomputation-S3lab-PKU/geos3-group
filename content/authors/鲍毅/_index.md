@@ -38,11 +38,6 @@ social:
     link: https://baoyi.vercel.app/
     icon: fas fa-home
     icon_pack: fas
-  - display:
-      header: false
-    link: https://www.zhihu.com/people/8aoy1
-    icon_pack: fab
-    icon: fab fa-zhihu
 education:
   courses:
     - course: PhD in Geographical Information Systems
