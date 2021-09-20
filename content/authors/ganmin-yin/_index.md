@@ -1,5 +1,5 @@
 ---
-title: 尹赣闽
+title: Ganmin Yin
 avatar_filename: wechat_avatar.jpg
 bio: test
 social: []

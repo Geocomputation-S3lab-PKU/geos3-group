@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: PKU S3-Lab | PKU # Website name
+title: S3-Lab | PKU # Website name
 baseurl: '' # Website URL
 copyright: '© {year} PKU S<sup>3</sup> Lab, Peking University' # Footer text, e.g. '© {year} Me'
 
