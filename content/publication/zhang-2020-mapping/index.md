@@ -1,0 +1,13 @@
+---
+title: "Mapping Water Quality Parameters in Urban Rivers from Hyperspectral Images Using a New Self-Adapting Selection of Multiple Artificial Neural Networks"
+date: 2020-01-01
+publishDate: 2021-09-20T08:48:38.383542Z
+authors: ["Yishan Zhang", "Lun Wu", "Huazhong Ren", "Yu Liu", "Yongqian Zheng", "Yaowen Liu", "Jiaji Dong"]
+publication_types: ["2"]
+abstract: "Protection of water environments is an important part of overall environmental protection; hence, many people devote their efforts to monitoring and improving water quality. In this study, a self-adapting selection method of multiple artificial neural networks (ANNs) using hyperspectral remote sensing and ground-measured water quality data is proposed to quantitatively predict water quality parameters, including phosphorus, nitrogen, biochemical oxygen demand (BOD), chemical oxygen demand (COD), and chlorophyll a. Seventy-nine ground measured data samples are used as training data in the establishment of the proposed model, and 30 samples are used as testing data. The proposed method based on traditional ANNs of numerical prediction involves feature selection of bands, self-adapting selection based on multiple selection criteria, stepwise backtracking, and combined weighted correlation. Water quality parameters are estimated with coefficient of determination      R 2      ranging from 0.93 (phosphorus) to 0.98 (nitrogen), which is higher than the value (0.7 to 0.8) obtained by traditional ANNs. MPAE (mean percent of absolute error) values ranging from 5% to 11% are used rather than root mean square error to evaluate the predicting precision of the proposed model because the magnitude of each water quality parameter considerably differs, thereby providing reasonable and interpretable results. Compared with other ANNs with backpropagation, this study proposes an auto-adapting method assisted by the above-mentioned methods to select the best model with all settings, such as the number of hidden layers, number of neurons in each hidden layer, choice of optimizer, and activation function. Different settings for ANNS with backpropagation are important to improve precision and compatibility for different data. Furthermore, the proposed method is applied to hyperspectral remote sensing images collected using an unmanned aerial vehicle for monitoring the water quality in the Shiqi River, Zhongshan City, Guangdong Province, China. Obtained results indicate the locations of pollution sources."
+featured: false
+publication: "*Remote Sensing*"
+tags: ["deep learning", "hyperspectral image", "multiple neural network", "self-adapting", "water quality monitoring"]
+doi: "10.3390/rs12020336"
+---
+

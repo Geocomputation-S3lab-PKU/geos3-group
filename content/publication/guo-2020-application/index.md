@@ -1,0 +1,12 @@
+---
+title: "Application of Deep Learning in Ecological Resource Research: Theories, Methods, and Challenges"
+date: 2020-10-01
+publishDate: 2021-09-20T08:48:38.376129Z
+authors: ["Qinghua Guo", "Shichao Jin", "Min Li", "Qiuli Yang", "Kexin Xu", "Yuanzhen Ju", "Jing Zhang", "Jing Xuan", "Jin Liu", "Yanjun Su", "Qiang Xu", "Yu Liu"]
+publication_types: ["2"]
+abstract: "Ecological resources are an important material foundation for the survival, development, and self-realization of human beings. In-depth and comprehensive research and understanding of ecological resources are beneficial for the sustainable development of human society. Advances in observation technology have improved the ability to acquire long-term, cross-scale, massive, heterogeneous, and multi-source data. Ecological resource research is entering a new era driven by big data. Traditional statistical learning and machine learning algorithms have problems with saturation in dealing with big data. Deep learning is a method for automatically extracting complex high-dimensional nonlinear features, which is increasingly used for scientific and industrial data processing because of its ability to avoid saturation with big data. To promote the application of deep learning in the field of ecological resource research, here, we first introduce the relationship between deep learning theory and research on ecological resources, common tools, and datasets. Second, applications of deep learning in classification and recognition, detection and localization, semantic segmentation, instance segmentation, and graph neural network in typical spatial discrete data are presented through three cases: species classification, crop breeding, and vegetation mapping. Finally, challenges and opportunities for the application of deep learning in ecological resource research in the era of big data are summarized by considering the characteristics of ecological resource data and the development status of deep learning. It is anticipated that the cooperation and training of cross-disciplinary talents may promote the standardization and sharing of ecological resource data, improve the universality and interpretability of algorithms, and enrich applications with the development of hardware."
+featured: false
+publication: "*Science China Earth Sciences*"
+doi: "10.1007/s11430-019-9584-9"
+---
+

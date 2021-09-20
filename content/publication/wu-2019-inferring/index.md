@@ -1,0 +1,13 @@
+---
+title: "Inferring Demographics from Human Trajectories and Geographical Context"
+date: 2019-09-01
+publishDate: 2021-09-20T08:48:38.379985Z
+authors: ["Lun Wu", "Liu Yang", "Zhou Huang", "Yaoli Wang", "Yanwei Chai", "Xia Peng", "Yu Liu"]
+publication_types: ["2"]
+abstract: "The advances of positioning technologies and the widespread use of mobile devices bring us massive data with location information, or so-called big geo-data. One important part of big geo-data is massive digital human trajectories recorded by location-enabled mobile terminals and social apps. Digital human trajectories have been studied to learn more about human mobility and human activity. Existing research has shown that there exist strong associations between trajectory patterns and demographics. Given that demographics are essential information to various domains but not easy to acquire timely and on a large scale, inferring demographics from human trajectories has attracted attention from academia. In this paper, we proposed a demographics inferring framework suitable for big geo-data processing. Trajectory patterns were quantified from both spatiotemporal and semantic perspectives. Spatiotemporal features extracted from trajectories directly were used for capturing how people traveled in space and time. Semantic features obtained by attaching geographical context to trajectories were to reflect activities people conducted. Spatiotemporal and semantic features were organized into feature vectors and then input to supervised classification models to infer demographics. GPS trajectories and land use data in Beijing were used to validate the framework. Results show that the inference accuracies of marital status and residency status achieve 80% and thus prove the feasibility of our framework. This study can facilitate decision making in both business and social studies, such as personalized recommendation, commercial site selection and urban planning."
+featured: false
+publication: "*Computers, Environment and Urban Systems*"
+tags: ["Big geo-data", "Demographics inferring", "Human mobility", "Trajectory mining"]
+doi: "10.1016/j.compenvurbsys.2019.101368"
+---
+

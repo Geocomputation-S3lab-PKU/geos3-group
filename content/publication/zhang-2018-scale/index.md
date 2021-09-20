@@ -1,0 +1,13 @@
+---
+title: "The Scale Effect on Spatial Interaction Patterns: An Empirical Study Using Taxi O-D Data of Beijing and Shanghai"
+date: 2018-01-01
+publishDate: 2021-09-20T08:48:38.383148Z
+authors: ["Shiliang Zhang", "Di Zhu", "Xin Yao", "Ximeng Cheng", "Huagui He", "Yu Liu"]
+publication_types: ["2"]
+abstract: "Spatial scale is a fundamental issue for geographical phenomena because the size of the spatial unit adopted for analysis can have a significant effect on aggregated spatial data and the corresponding analytical results. There exists much research on the scale issue of spatial distribution data while a few has paid attention to the scale effect on spatial interactions. Big geo-data with micro-level individual movements provide an unprecedented opportunity to explore spatial interactions from the bottom up and to understand the scale effect from the perspective of interaction patterns. In this paper, we introduced an empirical framework to explore spatial interaction data across scales. By incorporating two data sets of taxi trajectories in Beijing and Shanghai, we aggregated the taxi O-D trips under multiple regular grids with different cell sizes and analyzed the properties of spatial interactions in three aspects: the statistical distribution, the distance decay mechanism, and the structure pattern. Our research demonstrated the feasibility of analyzing spatial interactions from a multi-scale view and offered a basic empirical framework for future geographical research that is interested in scale and spatial interactions."
+featured: false
+publication: "*IEEE Access*"
+tags: ["big geo-data", "Distribution functions", "Graphical models", "Public transportation", "regular grids", "Scale", "Spatial databases", "spatial interaction", "Trajectory", "Urban areas", "urban mobility"]
+doi: "10.1109/ACCESS.2018.2869378"
+---
+

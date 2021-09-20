@@ -1,0 +1,13 @@
+---
+title: "Multi-Scale Detection and Interpretation of Spatio-Temporal Anomalies of Human Activities Represented by Time-Series"
+date: 2021-07-01
+publishDate: 2021-09-20T08:48:38.373138Z
+authors: ["Ximeng Cheng", "Zhiqian Wang", "Xuexi Yang", "Liyan Xu", "Yu Liu"]
+publication_types: ["2"]
+abstract: "Spatio-temporal patterns of human activities can be affected by events, such as extreme weather. Events cause anomalies that could be expressed by abnormal activity patterns deviating from the inherent ones. The detection of spatio-temporal anomalies thus helps to understand the implicit influencing mechanism with which the external factors affect human activities. Existing methods of spatio-temporal anomaly detection usually treat the temporal information as attributes of spatial units, which is an over-simplification as it ignores complex temporal patterns (e.g., periodic components of time-series). Moreover, as the spatio-temporal resolutions affect expressed characteristics of anomalies, the sensitivity of anomalies to scale is also worth investigating. This study intends to detect and interpret the spatio-temporal anomalies of human activities from a multi-scale perspective. Being different from the single-scale consideration and independent consideration of multiple scales, this research investigates how the anomalies' characteristics change at multiple scales by anomaly matching. The criteria of anomaly matching are the overlapping degree of spatio-temporal influence ranges of anomalies. It helps to specify the events that caused the expressed anomalies. Besides, we introduce the time-series decomposition methods to decompose complex temporal patterns, highlighting the abnormal changes in activity patterns. The study is validated using a multi-temporal-scale simulation experiment, and a multi-spatial-scale experiment based on taxi data in Beijing. Results show that the multi-scale method can detect various anomalies. Moreover, obtained multi-scale characteristics of anomalies are easy to compare with external data, and thus benefit anomaly interpretation (validated by two sample anomalies). This study highlights the significance of scales in anomaly detection of human activities and provides references for related works."
+featured: false
+publication: "*Computers, Environment and Urban Systems*"
+tags: ["Anomaly characteristics", "Multi-scale", "Spatio-temporal pattern", "Taxi data", "Time-series decomposition"]
+doi: "10.1016/j.compenvurbsys.2021.101627"
+---
+
