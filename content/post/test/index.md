@@ -26,6 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+summary: 地理信息科学作为具有外缘特征的交叉学科，传承了地理学的空间分析传统，将其他学科的方法与地理空间特性相结合，并探讨地理规律在普遍性和特殊性之间的平衡。同时，它处在地理学学科体系中核心地位，从“夯实理论基础”以及“提升技术并推动应用”两方面使地理学更强大。
 ---
 
 ## 导读
