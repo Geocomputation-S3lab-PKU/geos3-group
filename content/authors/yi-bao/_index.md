@@ -3,9 +3,7 @@ organizations:
   - name: Peking University
     url: ""
 superuser: false
-authors:
-  - 鲍毅
-title: 鲍毅
+title: Yi Bao
 role: Ph.D Candidate
 bio: My research interests include Geographical Information Systems, Remote
   Sensing, Urban Data Mining, Deep Learning.
