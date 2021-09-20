@@ -4,7 +4,8 @@ organizations:
     url: ""
 superuser: false
 title: Yi Bao
-role: Ph.D Candidate
+weight: 2018
+role: Ph.D Candidate<br>2018 - 2023</br>
 bio: My research interests include Geographical Information Systems, Remote
   Sensing, Urban Data Mining, Deep Learning.
 interests:

@@ -73,7 +73,7 @@ show_related:
   talk: true
 reading_time: true
 section_pager: false
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

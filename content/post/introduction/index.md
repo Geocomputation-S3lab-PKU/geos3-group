@@ -1,11 +1,9 @@
 ---
-![wechat](/Users/baoyi/OneDrive - pku.edu.cn/GitlabProject/geos3-group/content/post/introduction/wechat.jpg)# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "地理信息科学：地理学的核心或是外缘？"
 subtitle: ""
 summary: "地理信息科学作为具有外缘特征的交叉学科，传承了地理学的空间分析传统，将其他学科的方法与地理空间特性相结合，并探讨地理规律在普遍性和特殊性之间的平衡。同时，它处在地理学学科体系中核心地位，从“夯实理论基础”以及“提升技术并推动应用”两方面使地理学更强大。"
 
-authors: ["Yu liu"]
+authors: ["Yu Liu"]
 tags: ["观点"]
 categories: ["地理信息系统"]
 date: 2021-08-25T13:43:58+08:00

@@ -4,7 +4,8 @@ organizations:
     url: ""
 superuser: false
 title: Ganmin Yin
-role: Ph.D Student
+role: Ph.D Student<br>2020 - 2025</br>
+weight: 2020
 bio: My research interests include Geographical Information Systems, Remote
   Sensing, Urban Data Mining, Deep Learning.
 interests:
