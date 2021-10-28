@@ -1,10 +1,5 @@
 ---
-organizations:
-  - name: Peking University
-    url: ""
-superuser: false
 title: Yi Bao
-weight: 2018
 role: Ph.D Candidate<br>2018 - 2023</br>
 bio: My research interests include Geographical Information Systems, Remote
   Sensing, Urban Data Mining, Deep Learning.
@@ -29,6 +24,7 @@ social:
     icon: researchgate
   - display:
       header: false
+<<<<<<< HEAD
     link: https://orcid.org/my-orcid?orcid=0000-0002-2175-2688
     icon_pack: ai
     icon: orcid
@@ -37,6 +33,14 @@ social:
   #   link: https://baoyi.vercel.app/
   #   icon: fas fa-home
   #   icon_pack: fas
+=======
+    link: https://baoyi.vercel.app/
+    icon: fas fa-home
+    icon_pack: fas
+organizations:
+  - name: Peking University
+    url: ""
+>>>>>>> 6cc79f2d732d5c9709dad54f6b8ed08dbe9bb4c9
 education:
   courses:
     - course: PhD in Geographical Information Systems
@@ -46,7 +50,9 @@ education:
       institution: China University of Geosciences
       year: ""
 email: ""
+superuser: false
 user_groups:
   - PhD Students
+weight: 2018
 ---
 鲍毅(baoyi) is a PhD candidate in Peking University S<sup>3</sup>-lab. His research interest lies in Urban data mining. His working experience includes **Location Prediction** and **Built Environment Stocks calculation**. Make cities great again！
