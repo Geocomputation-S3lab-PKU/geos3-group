@@ -24,7 +24,6 @@ social:
     icon: researchgate
   - display:
       header: false
-<<<<<<< HEAD
     link: https://orcid.org/my-orcid?orcid=0000-0002-2175-2688
     icon_pack: ai
     icon: orcid
@@ -33,14 +32,6 @@ social:
   #   link: https://baoyi.vercel.app/
   #   icon: fas fa-home
   #   icon_pack: fas
-=======
-    link: https://baoyi.vercel.app/
-    icon: fas fa-home
-    icon_pack: fas
-organizations:
-  - name: Peking University
-    url: ""
->>>>>>> 6cc79f2d732d5c9709dad54f6b8ed08dbe9bb4c9
 education:
   courses:
     - course: PhD in Geographical Information Systems
