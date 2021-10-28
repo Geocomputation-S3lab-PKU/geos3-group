@@ -32,11 +32,11 @@ social:
     link: https://orcid.org/my-orcid?orcid=0000-0002-2175-2688
     icon_pack: ai
     icon: orcid
-  - display:
-      header: false
-    link: https://baoyi.vercel.app/
-    icon: fas fa-home
-    icon_pack: fas
+  # - display:
+  #     header: false
+  #   link: https://baoyi.vercel.app/
+  #   icon: fas fa-home
+  #   icon_pack: fas
 education:
   courses:
     - course: PhD in Geographical Information Systems
