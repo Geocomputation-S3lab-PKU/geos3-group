@@ -46,4 +46,4 @@ user_groups:
   - PhD Students
 weight: 2018
 ---
-鲍毅(baoyi) is a PhD candidate in Peking University S<sup>3</sup>-lab. His research interest lies in Urban data mining. His working experience includes **Location Prediction** and **Built Environment Stocks calculation**. Make cities great again！
+鲍毅(baoyi) is a PhD candidate in Peking University S<sup>3</sup>-lab.
