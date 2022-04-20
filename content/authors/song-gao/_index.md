@@ -7,7 +7,7 @@ title: Song Gao
 superuser: false
 
 # Role/position
-role: Master Student<br>2009 - 2012</br>
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -25,13 +25,22 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: PhD in GIScience
     institution: University of California Santa Barbara
     year: 2017
+  - course: MSc in Cartography and GIS
+    institution: Peking University
+    year: 2012
+  - course: BSc Honors in Geography
+    institution: Beijing Normal University
+    year: 2009
 
 
 # Social/Academic Networking
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:song.gao@wisc.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=eLdz_6IAAAAJ
@@ -41,7 +50,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-4359-6302
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
