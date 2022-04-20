@@ -17,9 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Professors
-  - Visiting Scholars
-  - Researchers
+  - Collaborating Professors
   - Postdoctoral Researchers
+  - Visiting Scholars
   - Current Students
   - Alumni
 design:

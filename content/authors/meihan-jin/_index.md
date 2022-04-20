@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Meihan JIN
+title: Meihan Jin
 
 # Is this the primary user of the site?
 superuser: false
@@ -58,6 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Collaborating Professors
+- Alumni
 ---
 I am now working as an assistant professor at College of Urban Transportation and Logistics, Shenzhen Technology University. I obtained my PhD from Université de Bretagne Occidentale in France supervised by Professor Christophe Claramunt. I joined the team right after the PhD. The projects I mainly took part in include “Towards Theories and Methods for Spatial Interaction Networks Derived from Big Geo-data” and "Mobility as a Service: From Rigid to Smart Evolving Public Transport". My current research interests include spatial interactions, spatial temporal data mining and human travel behavior.
