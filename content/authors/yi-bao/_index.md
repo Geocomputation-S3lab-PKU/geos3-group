@@ -1,12 +1,35 @@
+
 ---
+# Display name
 title: Yi Bao
-role: Ph.D Candidate<br>2018 - 2023</br>
-bio: My research interests include Geographical Information Systems, Remote
-  Sensing, Urban Data Mining, Deep Learning.
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Phd Student<br>2018 - 2023</br>
+
+# Organizations/Affiliations
+organizations:
+- name: Peking University
+  url: 
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Geographical Information Systems, Remote Sensing, Urban Data Mining, Deep Learning
+
 interests:
-  - Geographical Information Systems
   - Urban Data Mining
-  - Remote Sensing
+  - GeoAI
+
+
+education:
+  courses:
+  - course: BSc in Information System
+    institution: China University of Geosciences
+    year: 2018
+
+
+# Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,36 +37,23 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=EAMVOhUAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yi-Bao-12
   - icon: github
     icon_pack: fab
-    link: https://github.com/cugbaoyi
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Yi-Bao-12
-    icon_pack: ai
-    icon: researchgate
-  - display:
-      header: false
-    link: https://orcid.org/my-orcid?orcid=0000-0002-2175-2688
-    icon_pack: ai
-    icon: orcid
-  # - display:
-  #     header: false
-  #   link: https://baoyi.vercel.app/
-  #   icon: fas fa-home
-  #   icon_pack: fas
-education:
-  courses:
-    - course: PhD in Geographical Information Systems
-      institution: Peking University
-      year: ""
-    - course: BSc in Information Engineering
-      institution: China University of Geosciences
-      year: ""
+    link: https://github.com/CUGbaoyi
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-superuser: false
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
-weight: 2018
+- Current Students
 ---
-鲍毅(baoyi) is a PhD candidate in Peking University S<sup>3</sup>-lab.
+My research interests include Geographical Information Systems, Remote Sensing, Urban Data Mining, Deep Learning

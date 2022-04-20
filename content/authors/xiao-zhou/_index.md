@@ -1,26 +1,55 @@
+
 ---
+# Display name
 title: Xiao Zhou
-role: Ph.D in Geography
-# avatar_filename: zx.png
-bio: His research interests include GIS and remote sensing image applications.
-weight: 100
-social: []
+
+# Is this the primary user of the site?
 superuser: false
-user_groups:
-  - Postdoctoral Researchers
+
+# Role/position
+role: Postdoctoral Researcher<br>2021.07 - Present</br>
+
+# Organizations/Affiliations
+organizations:
+- name: Peking University
+  url: 
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include sustainable development, marine spatial planning, and environmental policy analysis
+
+interests:
+  - Sustainable development
+  - Marine spatial planning
+  - Environmental policy analysis
+
+
+
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:zhouxiaogis@pku.edu.cn'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=zh-CN&user=gPLno8cAAAAJ
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:zhouxiaogis@pku.edu.cn
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=gPLno8cAAAAJ&hl=zh-CN
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xiao-Zhou-44
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-3105-8390
 
 
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Postdoctoral Researchers
 ---
-Xiao Zhou received the Ph.D. degree in Geography from Nanjing University in 2021. Now, he is a postdoctoral fellow at Peking University. His research interests include GIS and Remote Sensing Applications.
+My research interests include sustainable development, marine spatial planning, and environmental policy analysis

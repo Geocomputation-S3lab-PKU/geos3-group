@@ -18,10 +18,9 @@ content:
   user_groups:
   - Professors
   - Visiting Scholars
-  - Postdoctoral Researchers
-  - PhD Students
-  - Grad Students
   - Researchers
+  - Postdoctoral Researchers
+  - Current Students
   - Alumni
 design:
   show_interests: false

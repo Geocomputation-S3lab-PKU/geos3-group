@@ -1,42 +1,65 @@
+
 ---
-organizations:
-  - name: Peking University
-    url: ""
-superuser: false
+# Display name
 title: Ganmin Yin
-role: Ph.D Student<br>2020 - 2025</br>
-weight: 2020
-bio: My research interests include Geographical Information Systems, Remote
-  Sensing, Urban Data Mining, Deep Learning.
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: PhD Student<br>2020 - present</br>
+
+# Organizations/Affiliations
+organizations:
+- name: Peking University
+  url: https://www.pku.edu.cn/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Human Mobility, Transportation, Urban Data Mining, Social Sensing and GeoAI.
+
 interests:
-  - Intelligent Transportation
   - Human Mobility
-  - Spatio-Temporal Data Mining
+  - Transportation
+  - Urban Data Mining
+  - Social Sensing
   - GeoAI
+
+
+education:
+  courses:
+  - course: BSc in Geographical Information Science
+    institution: Peking University
+    year: 2016-2020
+
+
+# Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yinganmin@pku.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=UgdgRs0AAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=zh-CN&user=UgdgRs0AAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Ganmin-Yin
   - icon: github
     icon_pack: fab
     link: https://github.com/sunshineYin
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Ganmin-Yin
+  - icon: orcid
     icon_pack: ai
-    icon: researchgate
-education:
-  courses:
-    - course: PhD Student in Cartography and GIScience
-      institution: Peking University
-      year: "2020 - present"
-    - course: BSc in Geographical Information Science
-      institution: Peking University
-      year: "2016 - 2020"
+    link: https://orcid.org/0000-0002-4712-9077
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+- Current Students
 ---
+My research interests include Human Mobility, Transportation, Urban Data Mining, Social Sensing and GeoAI.
