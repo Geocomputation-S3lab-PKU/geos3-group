@@ -44,7 +44,7 @@ social:
     link: https://orcid.org/0000-0002-0122-9419
   - icon: blog
     icon_pack: fas
-    link: https://github.com/urbancolab
+    link: https://urbancolab.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -58,6 +58,6 @@ user_groups:
 - Collaborating Professors
 - Alumni
 ---
-Dr. Chaogui Kang is professor of Geographic Information Science at China University of Geosciences, and previously was associate professor at Wuhan University, visiting scholar and research affiliate at New York University’s Center for Urban Science + Progress and Massachusetts Institute of Technology’s SENSEable City Lab, and research associate at The Hong Kong Polytechnic University’s Department of Land Surveying and Geo-Informatics. He was trained in Geography, Data Science, Complex Network, and is leading a dynamic research group – [Urban CoLab](https://github.com/urbancolab) – with the mission to develop data-driven, human-centric, and cross-cutting methodologies for tackling urban problems from a geospatial perspective. 
+Dr. Chaogui Kang is professor of Geographic Information Science at China University of Geosciences, and previously was associate professor at Wuhan University, visiting scholar and research affiliate at New York University’s Center for Urban Science + Progress and Massachusetts Institute of Technology’s SENSEable City Lab, and research associate at The Hong Kong Polytechnic University’s Department of Land Surveying and Geo-Informatics. He was trained in Geography, Data Science, Complex Network, and is leading a dynamic research group – [Urban CoLab](https://urbancolab.com) – with the mission to develop data-driven, human-centric, and cross-cutting methodologies for tackling urban problems from a geospatial perspective. 
 
 Dr. Chaogui Kang graduated in Geographic Information Science from Nanjing University (BSc) and Peking University (PhD with Honor). His primary research interest lies in the intersections of Travel Behavior, Built Environment and Social Inequality with the assistance of pervasive urban sensing techniques.
