@@ -1,13 +1,13 @@
 
 ---
 # Display name
-title: Haohan Meng
+title: Pengfei Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Grad Student
+role: Phd Student<br>2017 - 2022</br>
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +15,16 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial autocorrelation and spatial interaction.
+bio: My main research interests are big data analysis on tourism research.
+
+interests:
+  - Big data analysis on tourism
+
+
+education:
+  courses:
+  - course: PhD in Cartography and Geography Information System
+    institution: Peking University
 
 
 # Social/Academic Networking
@@ -33,4 +42,4 @@ highlight_name: false
 user_groups:
 - Alumni
 ---
-My research interests include spatial autocorrelation and spatial interaction.
+My main research interests are big data analysis on tourism research.
