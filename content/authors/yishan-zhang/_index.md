@@ -35,10 +35,6 @@ education:
     year: 2022
 
 
-# Social/Academic Networking
-social:
-
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
