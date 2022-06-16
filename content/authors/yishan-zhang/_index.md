@@ -30,7 +30,7 @@ education:
   - course: MSc
     institution: Georgetown University
     year: 2017
-  - PhD
+  - course: PhD
     institution: Peking University
     year: 2022
 
