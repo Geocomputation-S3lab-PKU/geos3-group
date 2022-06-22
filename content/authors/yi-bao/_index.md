@@ -7,7 +7,7 @@ title: Yi Bao
 superuser: false
 
 # Role/position
-role: Phd Student<br>2018 - 2023</br>
+role: PhD Student<br>2018 - 2023</br>
 
 # Organizations/Affiliations
 organizations:

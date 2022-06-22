@@ -7,7 +7,7 @@ title: Pengfei Zhao
 superuser: false
 
 # Role/position
-role: Phd Student<br>2017 - 2022</br>
+role: PhD Student<br>2017 - 2022</br>
 
 # Organizations/Affiliations
 organizations:

@@ -8,7 +8,7 @@ title: Han Wang
 superuser: false
 
 # Role/position
-role: Master's Student<br>2020 - present</br>
+role: Grad Student<br>2020 - present</br>
 
 # Organizations/Affiliations
 organizations:

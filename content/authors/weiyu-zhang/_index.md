@@ -7,7 +7,7 @@ title: Weiyu Zhang
 superuser: false
 
 # Role/position
-role: PhD Student<br>2019 - 2022</br>
+role: PhD Student<br>2022 - present</br>
 
 # Organizations/Affiliations
 organizations:
