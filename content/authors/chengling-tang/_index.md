@@ -15,7 +15,7 @@ organizations:
   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is related to human urban activities, and also involves analytical methods such as theoretical L function.
+bio: My research is related to spatial interactions, and also involves social sensing.
 
 interests:
   - spatial interaction
