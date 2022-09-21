@@ -52,4 +52,4 @@ highlight_name: false
 user_groups:
 - Current Students
 ---
-Financial modelling
+I want to make sense of complex systems.
