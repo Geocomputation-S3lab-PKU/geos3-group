@@ -28,10 +28,10 @@ education:
   - course: PhD in Geomatics
     institution: Université de Bretagne Occidentale, France
     year: 2018
-  - course: MSc in Cartography and Geography Information System
+  - course: MSc in Cartography and Geographical information system
     institution: Central South University, China
     year: 2014
-  - course: BSc in Geography Information System
+  - course: BSc in Geographical information system
     institution: Central South University, China
     year: 2011
 

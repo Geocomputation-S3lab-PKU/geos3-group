@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Cartography and Geography Information System
+  - course: PhD in Cartography and Geographical information system
     institution: Sun Yat-Sen University
     year: 2017
   - course: BSc in Economic Geography and Urban-Rural Planning

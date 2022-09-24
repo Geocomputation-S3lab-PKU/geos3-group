@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Cartography and Geography Information System
+  - course: BSc in Cartography and Geographical information system
     institution: Nanjing Normal University
     year: 2019
 

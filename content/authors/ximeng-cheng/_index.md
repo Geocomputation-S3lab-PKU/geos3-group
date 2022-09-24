@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Cartography and Geography Information System
+  - course: PhD in Cartography and Geographical information system
     institution: Peking University
     year: 2020
 

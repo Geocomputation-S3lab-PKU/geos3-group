@@ -25,9 +25,6 @@ interests:
 
 education:
   courses:
-  - course: PhD
-    institution: Peking University
-    year: 2022
   - course: MSc
     institution: Shandong University of Science and Technology
     year: 2021

@@ -28,7 +28,7 @@ education:
   - course: BSc in Geographic Information Science
     institution: Peking University
     year: 2017-2021
-  - course: PhD in Cartography and Geography Information System
+  - course: PhD in Cartography and Geographical information system
     institution: Peking University
     year: 2021-present
 

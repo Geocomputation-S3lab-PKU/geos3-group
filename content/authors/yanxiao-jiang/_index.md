@@ -24,10 +24,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Cartography and Geography Information System
+  - course: PhD in Cartography and Geographical information system
     institution: Peking University
     year: 2021-2025
-  - course: MSc in Cartography and Geography Information System
+  - course: MSc in Cartography and Geographical information system
     institution: Beijing Normal University
     year: 2018-2021
   - course: BSc in Surveying Engineering

@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Geography Information System
+  - course: BSc in Geographical information system
     institution: Zhejiang University
     year: 2022
 
