@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Xiaoyue Xing
+title: Xiaohuan Wu
 
 # Is this the primary user of the site?
 superuser: false
