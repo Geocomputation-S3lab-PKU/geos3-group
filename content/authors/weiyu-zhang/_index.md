@@ -15,7 +15,7 @@ organizations:
   url: https://sess.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Geographical Information Systems, Deep Learning(GeoAI), Urban Science and Urban Data Mining.
+bio: I’m a P.H.D. student in the S3-Lab and supervised by Prof. Yu Liu. My research interests include Geographical Information Systems, Deep Learning(GeoAI), Urban Science, and Spatial-temporal Data Mining.
 
 interests:
   - GeoAI
@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Cartography and Geographical information system
+  - course: BSc in Geographic Information Science
     institution: Peking University
     year: 2022
 
@@ -36,6 +36,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zwy-Giser
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Weiyu-Zhang-19
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-1086-9055
@@ -52,5 +55,4 @@ highlight_name: false
 user_groups:
 - Current Students
 ---
-I'm an undergraduate student of School of Earth and  Space Sciences, Peking University.  Currently, I'm working as an intern student at S3Lab and supervised by Prof. Yu Liu. 
-My research interests include Geographical Information Systems, Deep Learning(GeoAI), Urban Science and Urban Data Mining.
+I’m a P.H.D. student in the S3-Lab and supervised by Prof. Yu Liu. My research interests include Geographical Information Systems, Deep Learning(GeoAI), Urban Science, and Spatial-temporal Data Mining.
