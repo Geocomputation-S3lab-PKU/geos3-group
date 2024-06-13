@@ -3,6 +3,9 @@
 # Display name
 title: Lun Wu
 
+# Display order
+weight: 2
+
 # Is this the primary user of the site?
 superuser: false
 
