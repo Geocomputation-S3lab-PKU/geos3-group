@@ -7,7 +7,7 @@ title: Tianyou Cheng
 superuser: false
 
 # Role/position
-role: Grad Student<br>2021 - present</br>
+role: Grad Student<br>2021 - 2024</br>
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
 ---
 Tianyou Cheng, male, 22 years old, Han nationality, member of the CPC, is a graduate student of class 2021. He is currently researching in urban human activity under the supervision of Prof. Yu Liu. He graduated from Wuhan University, and was awarded with the national scholarship and excellent graduate student.

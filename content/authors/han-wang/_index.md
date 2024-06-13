@@ -8,7 +8,7 @@ title: Han Wang
 superuser: false
 
 # Role/position
-role: Grad Student<br>2020 - present</br>
+role: Grad Student<br>2020 - 2023</br>
 
 # Organizations/Affiliations
 organizations:
@@ -56,6 +56,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
 ---
 Interested in all things cool.

@@ -7,7 +7,7 @@ title: Yi Bao
 superuser: false
 
 # Role/position
-role: PhD Student<br>2018 - 2023</br>
+role: PhD Student<br>2018 - 2023</br>Postdoctoral Researcher<br>2023 - present</br>
 
 # Organizations/Affiliations
 organizations:
@@ -54,6 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
+- Postdoctoral Researchers
 ---
 My research interests include Geographical Information Systems, Remote Sensing, Urban Data Mining, Deep Learning

@@ -7,7 +7,7 @@ title: Shengyin Wang
 superuser: false
 
 # Role/position
-role: PhD student<br>2018 - present</br>
+role: PhD student<br>2018 - 2024</br>
 
 # Organizations/Affiliations
 organizations:
@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
 ---
 bio: My research interests include GIScience, Social Sensing, Place Representation, and Spatial Interaction.

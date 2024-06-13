@@ -7,7 +7,7 @@ title: Junjie Hu
 superuser: false
 
 # Role/position
-role: Grad Student<br>2021 - present</br>
+role: Grad Student<br>2021 - 2024</br>
 
 # Organizations/Affiliations
 organizations:
@@ -49,6 +49,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
 ---
 My research interests include GeoAI, Representation learning, Embeddings, Spatial-Temporal Data Mining. Now I am dedicated to urban data mining using representation learning and embeddings.

@@ -7,7 +7,7 @@ title: Xiaohuan Wu
 superuser: false
 
 # Role/position
-role: PhD Student<br>2017 - present</br>
+role: PhD Student<br>2017 - 2022</br>
 
 # Organizations/Affiliations
 organizations:
@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Students
+- Alumni
 ---
 My research interests include Urban Big Data Analytics, GIScience, Data Mining

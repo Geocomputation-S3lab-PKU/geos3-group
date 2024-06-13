@@ -7,7 +7,7 @@ title: Xiao Zhou
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher<br>2021.07 - Present</br>
+role: Postdoctoral Researcher<br>2021 - 2023</br>
 
 # Organizations/Affiliations
 organizations:
@@ -50,6 +50,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- Alumni
 ---
 My research interests include sustainable development, marine spatial planning, and environmental policy analysis
