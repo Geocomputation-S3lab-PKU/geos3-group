@@ -57,6 +57,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
+- Collaborating Professors
 ---
 Dr. Di Zhu is an Assistant Professor of Geographic Information Science in the Department of Geography, Environment, and Society at the University of Minnesota, Twin Cities.
 

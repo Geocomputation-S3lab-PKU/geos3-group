@@ -7,7 +7,7 @@ title: Yi Bao
 superuser: false
 
 # Role/position
-role: PhD Student<br>2018 - 2023</br>Postdoctoral Researcher<br>2023 - present</br>
+role: Postdoctoral Researcher<br>2023 - present</br>PhD Student<br>2018 - 2023</br>
 
 # Organizations/Affiliations
 organizations:
