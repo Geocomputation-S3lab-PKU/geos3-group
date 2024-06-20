@@ -1,0 +1,14 @@
+@article{Wan2023Patric,
+ abstract = {Parallel traffic simulation requires partitioning the road network into several components that can be assigned to different computing nodes (CPNs). Existing studies focus more on reducing edge-cuts (message-passing pipes between CPNs) to decrease synchronization message amongst CPNs for efficiency improvement. However, even reducing edge-cuts drastically, the volume of messages transmitted might still be high, which does not significantly improve performance. Based on observation that some traffic clusters (TCs) exist during simulation, i.e., areas with high internal and low external traffic density. For high-performance urban transport simulation, we propose a data-driven parallel approach named PATRIC, which can generate parallel partitions automatically based on traffic clustering. Specifically, the TC-based automatic partitioner (TAP) is designed to automatically identify TCs and then construct partitions in parallel. We present a partition-growing algorithm that prevents traffic-intensive TCs being split across multiple CPNs when distributing computing workloads, resulting in more balanced load and fewer synchronization operations. Unlike prior work using fixed thresholds for load balancing, we develop the adaptive partition updater (APU) to fit the dynamic traffic in the road network, which achieves a better trade-off between balancing workload and lowering communication for higher efficiency. Experiments on real-world datasets demonstrate that our approach outperforms the state-of-the-art methods.},
+ author = {Lin Wan and Ganmin Yin and Jiahao Wang and Golan Ben-Dor and Aleksey Ogulenko and Zhou Huang},
+ doi = {https://doi.org/10.1016/j.simpat.2023.102775},
+ issn = {1569-190X},
+ journal = {Simulation Modelling Practice and Theory},
+ keywords = {Parallel simulation, Agent-based transportation simulation, Road network partition, Traffic cluster, MATSim},
+ pages = {102775},
+ title = {PATRIC: A high performance parallel urban transport simulation framework based on traffic clustering},
+ url = {https://www.sciencedirect.com/science/article/pii/S1569190X23000527},
+ volume = {126},
+ year = {2023}
+}
+

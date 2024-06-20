@@ -1,0 +1,15 @@
+@article{hu2023Polyroad,
+ abstract = {Topological road-boundary detection using remote sensing imagery plays a critical role in creating high-definition (HD) maps and enabling autonomous driving. Previous approaches follow an iterative graph-growing paradigm for road-boundary extraction, where road boundaries are predicted vertex by vertex and instance by instance to output a graph, resulting in limitations of low inference speed. In this work, we formulate the road boundaries as polylines instead of a graph and propose a novel polyline transformer for topological road-boundary detection, termed PolyRoad. PolyRoad is built on the transformer architecture and is capable of detecting all road boundaries in parallel, which greatly improves the training and inference speed compared with the graph-based methods. To perform bipartite matching between the ground truth and predicted polylines, we develop a polyline matching cost to measure the distance, considering the order of open and closed polylines. In addition, we propose three different losses for supervising polyline learning: the order-oriented  $L1$  loss, direction loss, and mask loss. The order-oriented  $L1$  loss provides the point-level supervision to constrain the absolute position of each point of the road-boundary polylines. The direction loss provides the direction-level supervision to constrain the geometry shape of the predicted polylines by supervising the relative position of adjacent points. The mask loss provides the pixel-level supervision of the predicted polylines by converting the vector-format polylines into raster-format binary masks. Comprehensive experiments are conducted on the Topo-boundary dataset. Quantitative and qualitative results show that PolyRoad achieves superior performance than prior methods in both pixel-level and geometry-level metrics. More notably, PolyRoad achieves  $3.37 \times $  and  $22.85 \times $  faster inference speeds than Enhanced-iCurb and VecRoad, respectively.},
+ author = {Yuan Hu and Zhibin Wang and Zhou Huang and Yu Liu},
+ doi = {10.1109/TGRS.2023.3344103},
+ issn = {1558-0644},
+ journal = {IEEE Transactions on Geoscience and Remote Sensing},
+ keywords = {Roads, Feature extraction, Transformers, Iterative methods, Computer architecture, Training, Task analysis, Polyline detection, polyline losses, polyline matching, road-boundary detection, transformers},
+ month = {},
+ number = {},
+ pages = {1-12},
+ title = {PolyRoad: Polyline Transformer for Topological Road-Boundary Detection},
+ volume = {62},
+ year = {2024}
+}
+

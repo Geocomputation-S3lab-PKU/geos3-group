@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  - course: MSc in Geographic Information System
+    institution: Peking University
+    year: 2024
   - course: BEng in Surveying
     institution: Tongji University
     year: 2021
